@@ -1,0 +1,2 @@
+https://paperswithcode.com/method/chexnet
+CheXNet is a 121-layer DenseNet trained on ChestX-ray14 for pneumonia detection.

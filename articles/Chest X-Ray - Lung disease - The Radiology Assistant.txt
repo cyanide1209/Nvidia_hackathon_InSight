@@ -1,0 +1,276 @@
+https://radiologyassistant.nl/chest/chest-x-ray/lung-disease
+
+                        Publicationdate 2014-02-01
+ On a chest x-ray lung abnormalities will either present as areas of increased density or as areas of decreased density. Lung abnormalities with an increased density - also called opacities - are the most common.
+A practical approach is to divide these into four patterns: In this article we will focus on this four-pattern approach.
+At the end we will also discuss diseases that present as areas of decreased density. Whenever you see an area of increased density within the lung, it must be the result of one of these four patterns. Here are the most common examples of these four patterns on a chest x-ray (click image to enlarge). You have to realize that it is not always possible to divide lung abnormalities into one of these four patterns, but that should not be a problem. Sometimes you are confronted with an abnormality that looks like a mass, but it could also be a consolidation.
+Just do the work-up of both the differential diagnosis of masses and consolidation. In such a case information from clinical data, old films or follow-up films and CT-scan will usually solve the problem.
+Finally in some cases only biopsy will provide a diagnosis. Consolidation is the result of replacement of air in the alveoli by transudate, pus, blood, cells or other substances.
+Pneumonia is by far the most common cause of consolidation.
+The disease usually starts within the alveoli and spreads from one alveolus to another.
+When it reaches a fissure the spread stops there. The key-findings on the X-ray are: The table summarizes the most common diseases, that present with consolidation.
+Click to enlarge.
+Chronic diseases are indicated in red. A way to think of the differential diagnosis is to think of the possible content of the alveoli: Another way to think of consolidation, is to look at the pattern of distribution: Now it is obvious that some diseases can have more than one pattern.
+For instance a lobar pneumonia caused by streptococcus pneumoniae may become diffuse if the patient does not respond to the treatment.
+Other examples are organizing pneumonia (OP) and chronic eosinophilic pneumonia.
+These diseases typically present as multifocal consolidations, but sometimes they may become diffuse. OP is organizing pneumonia. When it is idiopathic it is called cryptogenic (COP). The old name is BOOP - Bronchiolitis Obliterans Organizing Pneumonia. The new name for BAC - bronchoalveolar carcinoma is adenocarcinoma in situ. It is very important to differentiate between acute consolidation and chronic consolidation, because it will limit the differential diagnosis. In chronic disease we think of: The most common presentation of consolidation is lobar or segmental.
+The most common diagnosis is lobar pneumonia.
+The table lists the differential diagnosis. Here a typical lobar consolidation.
+First study the images, then continue reading. The findings are: Lobar consolidation is the result of disease that starts in the periphery and spreads from one alveolus to another through the pores of Kohn.
+At the borders of the disease some alveoli will be involved, while others are not, thus creating ill-defined borders.
+As the disease reaches a fissure, this will result in a sharp delineation, since consolidation will not cross a fissure. As the alveoli that surround the bronchi become more dense, the bronchi will become more visible, resulting in an air-bronchogram (arrow). In consolidation there should be no or only minimal volume loss, which differentiates consolidation from atelectasis.
+Expansion of a consolidated lobe is not so common and is seen in Klebsiella pneumoniae and sometimes in Streptococcus pneumoniae, TB and lung cancer with obstructive pneumonia. 
+Lobar pneumonia
+ On the chest x-ray there is an ill-defined area of increased density in the right upper lobe without volume loss. The right hilus is in a normal position.
+Notice the air-bronchogram (arrow). In the proper clinical setting this is most likely a lobar or segmental pneumonia.
+However if this patient had weight loss or long standing symptoms, we would include the list of causes of chronic consolidation. This was an acute lobar pneumonia caused by Streptcoccus pneumoniae. Based on the images alone, it is usually not possible to determine the cause of the consolidation.
+Other things need to be considered, like acute or chronic illness, clinical data and other non-pulmonary findings. Here we have a number of x-rays with consolidation.
+Notice the similarity between these chest x-rays. 
+Hemorrhage
+ In this case there was a solitary nodule in the right upper lobe and a biopsy was performed.
+The lobar consolidation is the result of hemorrhage as a complication of the procedure. Hemorrhage is seen in: 
+Lung infarction
+ The radiographic features of acute pulmonary thromboembolism are insensitive and nonspecific.
+The most common radiographic findings in the Prospective Investigation of Pulmonary Embolism Diagnosis (PIOPED) study were atelectasis and patchy pulmonary opacity. In most cases of pulmonary emboli the chest x-ray is normal. This patient had pulmonary emboli, which were seen on a CECT.
+The peripheral consolidation is seen in the region of the emboli and can be attributed to hemorrhage in the infarcted area. 
+Pulmonary sequestration
+ This is an uncommon cause of lobar consolidation. It is a congenital abnormality.
+A nonfunctioning part of the lung lacks communication with the bronchial tree and receives arterial blood supply from the systemic circulation.
+Patients present with recurrent infection when bacteria migrate through the pores of Kohn. Notice the feeding artery, that branches off from the aorta (blue arrow). The most common cause of diffuse consolidation is pulmonary edema due to heart failure.
+This is also called cardiogenic edema, to differentiate it from the various causes of non-cardiogenic edema. The increased heart size is usually what distinguishes between cardiogenic and non-cardiogenic.
+Look for other signs of heart failure like redistribution of pulmonary blood flow, Kerley B-lines and pleural fluid. However some patients, who have an acute cardiac infarction, may still have a normal heart size, while other patients who have a large heart due to a chronic heart disease, may have non-cardiac pulmonary edema due to a superimposed pulmonay infection, ARDS, near-drowning etc. 
+Congestive heart failure
+ First study the images, then continue reading. The findings are: All these findings indicate, that we are dealing with pulmonary edema due to heart failure.
+You probably would like to look at old films to see if there are any changes. 
+Diffuse consolidation in bronchopneumonia
+ Here another case of diffuse consolidation. This patient had fever and cough.
+This was thought to be a diffuse bronchopneumonia. Unlike lobar pneumonia, which starts in the alveoli, bronchopneumonia starts in the airways as acute bronchitis.
+It will lead to multifocal ill-defined densities.
+When it progresses it can produce diffuse consolidation.
+The disease does not cross the fissures, but usually starts in multiple segments. Bronchopneumonia can be caused by many micro-organisms.
+This proved to be legionella pneumonia. 
+Diffuse consolidation in bronchoalveolar carcinoma
+ The chest x-ray shows diffuse consolidation with 'white out' of the left lung with an air-bronchogram. This patient had a chronic disease with progressive consolidation.
+The disease started as a persitent consolidation in the left lung and finally spread to the right lung. Final diagnosis: bronchoalveolar carcinoma. This is a difficult case.
+It demonstrates, that based on the x-ray alone, it is not certain which pattern we are looking at.
+Are these densities masses or consolidation? Continue with the CT. The CT-image is not very helpful in the differentiation.
+There are hypodense areas, which could be masses.
+On the other hand this also could be areas of consolidation with hypodense areas due to necrosis. Finally the diagnosis non Hodgkin's disease was made based on biopsy. BatwingA bilateral perihilar distribution of consolidation is also called a Batwing distribution.
+The sparing of the periphery of the lung is attributed to a better lymphatic drainage in this area.
+It is most typical of pulmonary edema, both cardiogenic and non-cardiogenic.
+Sometimes it is seen in pneumonias. Reverse BatwingPeripheral or subpleural consolidation is called reverse Batwing distribution.
+It is frequently seen in chronic lung disease. Multifocal consolidations are also described as multifocal ill-defined opacities or densities.
+In most cases these are the result of airspace-consolidations due to bronchopneumonia. As mentioned before bronchopneumonia starts in the bronchi and then spreads into the lungparenchyma.
+This can lead to segmental, diffuse or multifocal ill-defined densities. In some cases however the underlying pathology of multiple ill-defined densities is interstitial disease, like in the alveolar form of sarcoidosis in which the granulomas are very small and fill up the alveoli. First study the chest x-ray. What are the findings and what is the differential diagnosis? Notice that there are multiple densities in both lungs.
+The larger ones are ill-defined and maybe there is an air-bronchogram in the right lower lobe. Probably we are dealing with multifocal consolidations, but one might also consider the possibility of multiple ill-defined masses.
+There is a peripheral distribution. This patient had a several month history of chronic non-productive cough, that did not respond to antibiotics.
+So we are dealing with the differential diagnosis of chronic consolidation.
+The lab-findings were normal which makes bronchoalveolar carcinoma and lymphoma less likely.
+There was no eosinophilia, which excludes eosinophilic pneumonia.
+Biopsy revealed the diagnosis of organizing pneumonia (OP) also known as BOOP. 
+Wegener's granulomatosis
+ Wegener's is a collagen vascular disease with vasculitis involving the lung, kidney and sinuses.
+In the lung the vasculitis causes infarcts which first present as ill-defined areas of consolidation.
+In a later stage these infarcts become more circumscribed and can be seen as multiple nodules or masses, sometimes with cavitation. Here a patient with non-specific findings.
+There are ill-defined densities in the right lung, which proved to be a manifestation of Wegener's. Most of our knowledge about imaging findings in interstitial lung disease comes from HRCT.
+On HRCT there are four patterns: reticular, nodular, high and low attenuation (table). On a Chest X-Ray it can be very difficult to determine whether there is interstitial lung disease and what kind of pattern we are dealing with. On a CXR the most common pattern is reticular.
+The ground-glass pattern is frequently not detected on a chest x-ray.
+The cystic pattern is also difficult to appreciate on a cest x-ray.
+When the cysts have thick walls like in Langerhans cell histiocytosis or honeycombing, it frequently presents as a reticular pattern on a CXR. However sometimes an interstitial pattern can be seen and in many cases UIP can be suspected based on the x-ray findings. 
+Cystic versus Reticular
+ It can be difficult to determine whether we are dealing with a reticular pattern or a cystic pattern. The CXR is of a patient with Langerhans cell histiocytosis (LCH).
+LCH is called a cystic disease.
+On the CXR it is difficult to see if this is a cystic or a reticular pattern.
+In many of such cases a HRCT will give you more information. This problem is also seen in patients with UIP.
+One of the prominent findings in UIP is honeycombing.
+This creates a reticular pattern on the chest x-ray, because the cysts in honeycombing have thick walls.
+We will show a case in a moment. 
+Reticular pattern in Congestive heart failure
+ Study the images and then continue reading.
+The findings are: Based on these findings we can conclude that we are dealing with congestive heart failure. This is the most common interstitial pattern on a CXR. Interstitial edema usually presents as reticulation.
+Sometimes Kerley B lines are visible.
+Here another example. Kerley B lines are 1-2 cm long horizontal lines near the lateral pleura.
+The main differential diagnosis of Kerley B lines is: Here another chest x-ray with interstitial edema and Kerley B lines in a patient with congestive heart failure.
+The CT shows the septal thickening. Sometimes the reticulation is more coarse like in this case of congestive heart failure. 
+Sarcoidosis
+ In this case the chest x-ray shows subtle findings that could be described as fine reticulation. In many cases a HRCT is needed to determine the exact nature of the findings.
+The HRCT - not shown - demonstrated a fine nodular appearance as a result of sarcoidosis. Notice the subtle irregular thickening of the minor fissure.
+This is quite specific for sarcoidosis. 
+Longstanding Sarcoidosis
+ Here a typical chest film in a patient with long standing Sarcoidosis (stage IV).
+There is fibrosis in the upper zones. The differential diagnosis includes chronic hypersensitivity pneumonitis, which also results in fibrosis with upper lobe predominance. The HRCT demonstrates densities in both upper lobes.
+These are called conglomerate masses, which are the result of conglomerates of nodules. Here another patient with sarcoidosis. The is volume loss in the upper lobes as a result of fibrosis.
+The image on the left also shows densities in the lung.
+On a HRCT fine nodules were seen.
+A follow-up CXR shows resorption of most of the lung abnormalities.
+The fibrosis persists. UIP is a histologic pattern of pulmonary fibrosis. On a chest X-ray UIP manifests as a reticular pattern particularly at the lung bases.
+In many cases you can suspect UIP on the CXR.
+A HRCT is needed to confirm the diagnosis by demonstrating honeycombing. Here a CXR with a reticular pattern at the lung bases.
+This pattern was first attributed to chronic congestive heart failure, but persisted on follow-up CXR's despite therapy.
+HRCT demonstrated honeycombing. Here another case.
+The CXR demonstrates a reticular interstitial pattern with a preference at the lung bases. The HRCT demonstrates honeycombing and traction bronchiectasis. An acute reticular pattern is most frequently caused by interstitial edema due to cardiac heart failure. The other cause is interstitial pneumonia: This patient presented with a nonproductive cough and some fever.
+This was a PCP-infection as a first manifestation of AIDS. 
+Sarcoidosis
+ On a CXR sarcoidosis usually first presents with hilar and mediastinal lymphadenopathy (example). Parenchymal disease can present as consolidation or even as masses, but the most common presentation is a fine nodules. Here a typical case. When these small nodules coalesce, they may resemble consolidation. 
+Lymphangitis carcinomatosis
+ Lymphangitis carcinomatosis also produces a reticular pattern.
+It is best appreciated on HRCT-images. Atelectasis or lung-collapse is the result of loss of air in a lung or part of the lung with subsequent volume loss due to airway obstruction or compression of the lung by pleural fluid or a pneumothorax. In many cases atelectasis is the first sign of a lung cancer.
+Evidently it is very important to recognize the various presentations of atelectasis, since some of them can be easily misinterpretated. The key-findings on the X-ray are: Lobar atelectasis or lobar collaps is an important finding on a chest x-ray and has a limited differential diagnosis. The most common causes of atelectasis are: Sometimes lobar atelectasis produces only mild volume loss due to overinflation of the other lungparts. The illustration summarizes the findings of the different types of lobar atelectasis. 
+Right upper lobe atelectasis
+ First study the images, then continue reading. Findings: On the PET-CT a lungneoplasm is seen with subsequent atelectasis of the right upper lobe due to obstruction of the upper lobe bronchus. A common finding in atelectasis of the right upper lobe is 'tenting' of the diafphragm (blue arrow). This patient had a centrally located lungcarcinoma with metastases in both lungs (red arrows). 
+Right middle lobe atelectasis
+ First study the x-rays and then continue reading.
+What are the findings? Usually right middle lobe atelectasis does not result in noticable elevation of the right diaphragm. A pectus excavatum can mimick a middle lobe atelectasis on a frontal view, but the lateral view should solve this problem. 
+Right lower lobe atelectasis
+ Chest x-rays of a 70-year old male who fell from the stairs and has severe pain on the right flank. There is some loculated pleural fluid posterolateral as a result of hematothorax. What are the pulmonary findings?
+First study the images, then continue reading. There is a right lower lobe atelectasis. Notice the abnormal right border of the heart.
+The right interlobar artery is not visible, because it is not surrounded by aerated lung but by the collapsed lower lobe, which is adjacent to the right atrium. On a follow-up chest film the atelectasis has resolved. We assume that the atelectasis was a result of post-traumatic poor ventilation with mucus plugging. Notice the reappearance of the right interlobar artery (red arrow) and the normal right heart border (blue arrow). 
+Left upper lobe atelectasis
+ First study the x-rays, then continue reading.
+What are the findings? The CT-images demonstrate the atelectasis of the left upper lobe (blue arrow).
+There is a centrally located mass which obstructs the left upper lobe bronchus (red arrow). First study the x-rays then continue reading.
+What are the findings and what sign is seen here? There is an atelectasis of the left upper lobe.
+You would not expect the apical region to be this dark, but in fact this is caused by overinflation of the lower lobe, which causes the superior segment to creep all the way up to the apical region. This is called the luft sichel sign. First study the x-rays, then continue reading. The findings are: These findings indicate a total atelectasis of the left upper lobe and possibly also partial atelectasis on the right.
+Since the silhouette of the right heart border is still visible, there is probably partial atelectasis of the lower lobe and not of the middle lobe. Continue with the PET-CT... On the PET-CT there is both a tumor in the left lung, aswell as in the right. There were mutiple bone metastases.
+One rib metastasis is indicated by the arrow. Luft sichel means a sickle of air (blue arrow). Notice the bulging of the fissure on the lateral view.
+This is comparable to the golden-S sign in right upper lobe atelectasis and is suspective of a centrally obstructing mass. Study the images and then continue reading. There is a total collaps of the left upper lobe.
+Notice the high position of the left hilum.
+There is only a subtle band of density projecting behind the sternum.
+This is the collapsed upper lobe. In this case there is compensatory overinflation of the left lower lobe resulting in a normal position of the diaphragm and the mediastinum. 
+Left lower lobe atelectasis
+ First study the x-rays then continue reading. 
+Where is the abnormality located? There is a triangular density seen through the cardiac shadow.
+This must be an abnormality located posterior to the heart.
+This is confirmed on the lateral view.
+The contour of the left diaphragm is lost when you go from anterior to posterior.
+As the title suggests this is lower lobe atelectasis. We cannot see the lower lobe vessels, because they are surrounded by the atelectatic lobe. Normally when you follow the thoracic spine form top to bottom, the lower region becomes less opaque.
+Here we have the opposite (blue arrow). 
+Total atelectasis
+ The chest x-ray shows total atelectasis of the right lung due to mucus plugging.
+Notice the displacement of the mediastinum to the right. Re-aeration on follow-up chest film after treatment with a suction catheter.
+The mediastinum has regained its normal position. A common cause of total atelectasis of a lung is a ventilation tube that is positioned too deep and thus obstructing one of the main bronchi. These images are of a patient who had widespread bronchopneumonia and was on ventilation. During follow up a white out on the left was seen.
+This was caused by a large mucus plug. 
+After suction of the mucus plug the left lung was re-aerated. The chest x-ray shows a nearly total opacification of the left hemithorax.
+This patient was known to have pleuritic carcinomatosis.
+The left lung is almost completely compressed by the pleural fluid.
+Unlike most of the above cases, which were caused by obstruction, in this case the atelectasis is a result of compression. The compression of the lung by the loculated fluid collections is best seen on the CT-image (blue arrow). The CT-scan was performed, because the patient was suspected of having pulmonary emboli (red arrow). The typical findings of rounded atelectasis on CT are pleural thickening, pleural-based mass and comet tail sign. The theory is that a local pleuritis causes the pleura to thicken and contract.
+The underlying lung shrinks and atelectasis develops in a round configuration.
+The distorted vessels appear to be pulled into the mass and resemble a comet tail (4). First study the images and then continue reading. On the lateral view there is a mass-like lesion that is pleural-based.
+The first impresson is, that this is a pleural lesion. A CT was performed - see next images. The CT shows a lesion that originates in the lung.
+Many would have a lungcancer on the top of their differential diagnostic list. However there is also some pleural thickening (red arrow) and vessels seem to swirl around the mass (blue arrows).
+This is also described as the comet tail sign (4).
+Whenever you see a pleural-based lesion that looks like a lungcancer, also consider the possibility of rounded atelectasis. Rounded atelectasis is a benign lesion and when the findings are convincing, then biopsy is not needed.
+During follow up these lesions usually do not change in configuration.
+Rounded atelectasis is frequently seen in patients with a history of asbest exposure. The images show a density posteriorly in the left lower lobe.
+On the PA-film this looks like a mass or possibly a consolidation.
+On the lateral film however the boundaries seem to be sharp, which is in favor of a mass.
+Also notice that the pleura is thickened (red arrow). Although a peripheral lungcancer is on top of our list, we now also consider the possibility of rounded atelectasis. The CT-images show the typical features of a rounded atelectasis. There is an oval mass, pleural thickening and a comet tail sign (arrow). This lesion did not change in a two-year follow up. 
+Plate-like atelectasis
+ Plate-like atelectasis is a common finding on chest x-rays and detected almost every day.
+They are characterized by linear shadows of increased density at the lung bases.
+They are usually horizontal, measure 1-3 mm in thickness and are only a few cm long.
+In most cases these findings have no clinical significance and are seen in smokers and elderly.
+They are seen in patients, that are in a poor condition and who breathe superficially, for instance after abdominal surgery (figure). Plate-like atelectasis is frequently seen in patients in the ICU due to poor ventilation. Platelike atelectasis is also frequently seen in pulmonary embolism, but since it is non-specific, it is not a helpful sign in making the diagnosis of pulmonary embolism. 
+Cicacitration atelectasis
+ Atelectasis can be the result of fibrosis of lungtissue.
+This is seen after radiotherapy and in chronic infection, especially TB. Here we have a patient who was treated with radiotherapy for lungcancer.
+Notice the increased density of the lung tissue and the volume loss. Here we have a patient with atelectasis of the right upper lobe as a result of TB. Notice the deviation of the trachea.
+There is also some atelectasis of the left upper lobe, which results in a high position of the left pulmonary artery as seen on the lateral view (red arrow) Click here for more detailed information about Solitary Pulmonary Nodule A solitary pulmonary nodule or SPN is defined as a discrete, well-marginated, rounded opacity less than or equal to 3 cm in diameter.
+It has to be completely surrounded by lung parenchyma, does not touch the hilum or mediastinum and is not associated with adenopathy, atelectasis or pleural effusion. The differential diagnosis of SPN is basically the same as of a mass except that the chance of malignancy increases with the size of the lesion.
+Lesions smaller than 3 cm, i.e. SPN's are most commonly benign granulomas, while lesions larger than 3 cm are treated as malignancies until proven otherwise and are called masses. The tabel is adapted from chest x-ray - a survival guide. In lesions that do not respond to antibiotics, probably the most important non-invasive diagnostic tool is nowadays the PET-CT. PET-CT can detect malignancy in focal pulmonary lesions of greater than 1 cm with a sensitivity of about 97% and a specificity of 78%.
+False-positive findings in the lung are seen in granulomatous disease and rheumatoid disease.
+False negatives are seen in low grade malignant tumors like carcinoid and alveolar cell carcinoma and lesions of less than 1 cm. Previous chest radiographs should be reviewed to determine if the lesion has been stable over 2 years.
+If so, no further follow up is necessary, with the exception of pure ground-glass lesions on CT scans, which can be slower growing. For lesions with a benign pattern of calcification, further testing is not necessary. Management of indeterminate lesions greater than 8-10 mm depends on clinical probability of malignancy, as follows: Any unequivocal growth noted during follow up means that a definitive tissue diagnosis is needed. The differential diagnostic list of multiple masses is very long.
+The most important diagnoses are listed in the table. Sometimes it is difficult to differentiate multifocal consolidations from masses. Metastases
+Metastases are the most common cause of multiple pulmonary masses.
+Usually they vary in size and are well-defined.
+They predominate in the lower lobes and in the subpleural region. HRCT will demonstrate the random distribution unlike other diseases that have a perilymphatic or centrilobular distribution. The images show a renal cell carcinoma that has invaded the inferior vena cava with subsequent spread of disease to the lungs. Here another patient with  widespread pulmonary metastases of a cancer, that was located in the tongue. Mucus plugs or mucoid impaction can mimick the appearance of lung nodules or a mass.
+Sometimes differentiating mucus impaction from a lungcancer can be difficult. Mucoid impaction is commonly seen in patients with bronchiectasis, as in cystic fibrosis (CF) and allergic bronchopulmonary aspergillosis (ABPA).
+ABPA is a hypersensitivity disorder induced by Aspergillus, that occurs in patients with asthma or CF.
+It is also seen in bronchial obstruction caused by an obstructing tumor or bronchial atresia. In this case there are some mass-like structures in the right lung.
+CT demonstrated bronchiectasis with mucoid impaction. A more common presentation of mucoid impaction in seen here. This is the typical 'finger-in-glove' appearance of mucoid impaction. The mucus in the dilated bronchi looks like the fingers in a glove. 
+Bronchial atresia
+ Bronchial atresia is a congenital abnormality resulting from interruption of a bronchus with associated peripheral mucus impaction and associated hyperinflation of the obstructed lung (10).
+The hyperinflation of the affected lungsegment is caused by collateral ventilation through the pores of Kohn. The characteristic finding is a hyperlucent area of the lung surrounding a branching or nodular opacity that extends from the hilum. Notice the central mass surrounded by hyperlucent lung (blue arrow). Radiologists use many terms to describe areas of decreased density or lucencies within the lung, like cyst, cavity, pneumatocele, emphysema, bulla, honeycombing, bleb etc.
+Many of these terms are based on the pathogenesis of the abnormality. This makes it difficult to use these terms, since in many cases when we describe a chest X-ray, we are trying to figger out what the pathology could be. A more practical approach is to describe areas of decreased density in the lung as: Cavities frequently arise within a mass or an area of consolidation as a result of necrosis.
+We will discuss them here, because the prominent feature is the lucency. In the differential diagnosis there is overlap between cavities and cysts.
+Cavities can heal and end up as lungcysts and lungcysts can become infected and turn into thick walled cavities. Sometimes emphysematous bullae have visible walls that measure less than 1 mm.
+To differentiate them from cysts, is to look at the surrounding lung parenchyma.
+Cysts occur without associated pulmonary emphysema. Cysts usually contain air, but occasionally contain fluid or solid material.
+The term is mostly used to describe enlarged thin-walled airspaces in patients with lymphangioleiomyomatosis or Langerhans cell histiocytosis.
+Thicker-walled honeycomb cysts are seen in patients with end-stage fibrosis (11). 
+Pneumonia
+ In virulent pyogenic infections an abscess may form within the consolidated lung as a result of necrosis due to vasculitis and thrombosis.
+When some of the pus is coughed up, a cavity can be seen on the chest film.
+These patients are usually very ill.
+In granulomatous infection like TB, cavities may form, but these patients are usually not that ill. Cavitation is not seen in viral pneumonia, mycoplasma and rarely in streptococcus pneumoniae. These images are of a young patient with pneumonia.
+No micro-organism could be isolated.
+Within one month after treatment with antibiotics, there was almost complete resolution of the consolidation and the cavity. 
+Pneumonia
+ Here another example of a pneumonia with cavitation. Notice the destruction of lung parenchyma as seen on the CT. At one year follow up only minimal changes are seen on the CXR. 
+TB
+ Primairy TB is usually clinically silent.
+In 5% of infected individuals the immunity is inadequate and clinically active disease develops, which is known as progressive primary disease (9). Postprimary TB is reactivation of the latent infection and occurs in 5% of infected patients.
+On the CXR it is seen as consolidation with cavitation in the apical segments of the upper and lower lobes. Miliary TB is the result of hematogenous spread. Here a patient with postprimary TB with cavitaty formation in the left upper lobe. 
+TB
+ This patient presented first with the CXR on the left.
+First study the images.
+Then continue reading. 
+The findings are: 
+We can assume that this is reactivation of a latent TB.
+Culture was positive for TB. A CXR some years later on the right shows: This is better appreciated on a CT.
+Continue... Same patient Notice the cavitation especially on the right.
+In the left upper lobe there is probably some traction-bronchiectasis due to the fibrosis. 
+Nontuberculous mycobacteria
+ Nontuberculous mycobacteria, also known as atypical mycobacteria, are all the other mycobacteria which can cause pulmonary disease resembling TB. Here a patient with active disease in both upper lobes due to infection with atypical mycobacterium.
+Notice the air-fluid level indicating pus within the cavity (arrow). Here another patient with a mycobacterium infection. Notice the nodules with cavitation.
+Continue with the CT-images. Same patient with nontuberculous mycobacteria infection.
+Multiple small cavities are seen. 
+Septic emboli
+ Septic emboli usually present as multiple ill-defined nodules.
+In about 50% cavitation is seen. CT demonstrates more lesions than the chest film and can suggest the diagnosis in the proper clinical setting by demonstrating wegde-shaped peripheral lesions abutting the pleura, air-bronchograms within the ill-defined nodules and a feeding vessel sign (7).
+Some argue whether there is really something like a feeding vessel sign (8). Here a patient with septic emboli.
+The chest film shows two ill-defined densities iin the left lung, which are probably consolidations.
+On the CT cavitation is seen and another density with cavitation in the right lung. Continue with folluw up film. 
+Septic emboli
+ Same patient. On a follow up CXR only a small lungcyst is seen. 
+Lungcancer
+ 10% of lungcancers cavitate, most commonly squamous cell carcinoma.
+Small cell lungcancer does not cavitate.
+Bronchoalveolar carcinoma, or now called adenocarcinoma in situ, may occasionally cavitate and sometimes present as multiple lesions. Here a chest x-ray of a large cavitating lung cancer, which started as a small mass. 
+Lung infarction
+ In pulmonar embolism it is not common to see consolidation.
+The consolidation is a result of lunginfarction and bleeding into the alveoli. In this case a lung cyst has formed in the infarcted area. Here we see an old chest film, which is normal.
+The pulmonary embolus has caused a triangular density on the chest film (arrow).
+On the CT we can see, that it is a segmental consolidation. Continue with the follow up films. 
+Lung infarction
+ Same patient. On follow up films first a cyst is seen.
+One year later there is a thick wall probably as a result of secondary infection. The term pneumatocele is used to describe a lungcyst, which is most frequently caused by acute pneumonia, trauma, or aspiration of hydrocarbon fluid and is usually transient.
+The mechanism is believed to be a combination of parenchymal necrosis and check-valve airway obstruction (11). The illustration shows a pneumatocele as a result of a trauma.
+When it fills with fluid, it may resemble a solitary pulmonar nodule.  
+                            by Richard Webb and Charles Higgins
+                         
+                            by James C. Reed
+                         
+                            by Gerald De Lacey, Simon Morley and Laurence Berman
+                         
+                            by Vince A. Partap
+November 1999 Radiology,213, 553-554.
+ 
+                            by Sudhakar N. J. Pipavath1 and J. David Godwin.
+AJR September 2008 vol. 191 no. 3 639-641.
+ 
+                            by Heber MacMahon et al.
+Radiology 2005; 237:395-400
+ 
+                            by J E Kuhlman, , E K Fishman, and , C TeigenRadiology 1990, volume 174, issue 1.
+                         
+                            by Jonathan Dodd et al
+AJR 2006; 187:623-629
+ 
+                            by Yeon Joo Jeong  et al
+AJR 2008; 191:834-844
+ 
+                            by Matthew G. Gipson et al
+September 2009 RadioGraphics,29, 1531-1535.
+ 
